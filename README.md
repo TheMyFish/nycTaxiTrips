@@ -23,12 +23,10 @@ A pasta Python contem dois arquivos
  A pasta Data tem os arquivos:
  
  *O arquivo dataTest.json:
- 
- ***Utilizado apenas para teste unitario para os comandos python
+  ***Utilizado apenas para teste unitario para os comandos python
  
  *Os arquivos CSV:
- 
- ***São o resultado do arquivo read_json.py quando executado
+  ***São o resultado do arquivo read_json.py quando executado
  
  *O arquivo sql_postgreSQL.sql
  ***São comandos executados dentro do banco de dados (Consultas)
